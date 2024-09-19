@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-e&zfi0&h+s@r%%j13w(@f@bm$9vm#54ncc6q(k@&=g1wgq7i8e
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://tigris-hc-ssl-secure.onrender.com/','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = [' https://tigris-hc-ssl-secure.onrender.com','https://*.127.0.0.1']
 
 # Application definition
 
